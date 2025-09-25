@@ -1,7 +1,7 @@
 Julio Segarra:
   name: "Julio Segarra"
   bio: "I’m a Linux-first software engineer focused on backend APIs and full stack web development. I build secure, maintainable systems with **Python**, **Django**, and **PostgreSQL**, and I’m experienced deploying containerized applications with **Docker** to the **cloud** using **Render** (managed Postgres) and **AWS**."
-  #avatar: ""
+  avatar: "/assets/images/myface.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
